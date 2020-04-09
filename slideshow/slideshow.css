@@ -1,0 +1,41 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ddd;
+}
+
+body {
+    background-color: #eee;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header,
+nav,
+section,
+footer {
+    background-color: white;
+    margin: 10px 0;
+}
+
+
+header,
+nav,
+section,
+footer {
+    padding: 30px;
+    margin: 5px 0;
+    background-color: #fff;
+}
+
+header {}
+
+nav {}
+
+section {}
+
+footer {}
