@@ -74,6 +74,7 @@ footer li {
 
 aside {
     width: 20%;
+    outline-color: black;
     background-color: green;
     float: left;
     padding: 10px;
@@ -101,7 +102,7 @@ article {
 }
 
 .driving {
-    width: 70%;
+    width: 65%;
     float: right;
     margin 0 0 10px 10px;
     padding: 10px;
@@ -115,7 +116,7 @@ article {
 }
 
 .putting {
-    width: 45%;
+    width: 60%;
     float: right;
     margin 0 0 10px 10px;
     padding: 10px;
@@ -133,7 +134,7 @@ h1 {
     }
 
     #wrap {
-        width: 99%;
+        width: 100%;
     }
 
     nav a,
@@ -216,7 +217,7 @@ h1 {
     legend {
         font-size: 30px;
         font-family: Georgia, serif;
-        background-color: navy;
+        background-color: darkseagreen;
         font-weight: bold;
         color: white;
         padding: 5px 10px;
@@ -229,7 +230,7 @@ h1 {
     input {}
 
     .button {
-        background-color: navy;
+        background-color: darkseagreen;
         color: white;
         font-size: 1.5em;
         font-variant: small-caps;
